@@ -8,7 +8,7 @@
 
 puts 'Seeding...'
 Greeting.destroy_all
-Greeting.create(message: "Hello, world!")
+Greeting.create(message: "Χαίρετε")
 Greeting.create(message: "Hello!")
 Greeting.create(message: "Merhaba!")
 Greeting.create(message: "Selam!")
