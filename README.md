@@ -8,6 +8,7 @@
 - Ruby on Rails
 - React
 - PostgreSQL
+- Webpack
 
 ## Getting Started
 
